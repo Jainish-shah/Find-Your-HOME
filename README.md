@@ -6,7 +6,7 @@ This Web App is deployed to cloud (Heroku) where it can be accesssed. Running la
 
 Web App Link(Heroku) - https://real-estate-price-vadodara.herokuapp.com/<br/>
 
-![image](WebApp.png)
+![image](webapp.png)
 ## Technologies used:
 1. Python
 2. Numpy and Pandas for data cleaning
